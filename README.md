@@ -1,7 +1,7 @@
 <h1 align="center">Hello,I'm 0giv 👋</h1>
 
 <p align="center">
-  <img src="[https://your-image-url.com/your-image.png](https://avatars.githubusercontent.com/u/138109429?s=400&u=288eebd09fce4eb308bdbf64c0465018520c5fe3&v=4)" alt="Profile Picture">
+<!--   <img src="[https://your-image-url.com/your-image.png](https://avatars.githubusercontent.com/u/138109429?s=400&u=288eebd09fce4eb308bdbf64c0465018520c5fe3&v=4)" alt="Profile Picture"> -->
 </p>
 
 <p align="center">This is my special repository, <strong>0giv</strong>! It contains a README.md file that will appear on my profile. Here, I would like to share some information about myself.</p>
