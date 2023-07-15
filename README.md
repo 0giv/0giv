@@ -13,7 +13,7 @@
 
 <h2>🚀 Projects</h2>
 
-<h3>Project 1: CanSurvive</h3>
+<h3>CanSurvive</h3>
 
 <p>
 An Anonymous Chatbox.  
