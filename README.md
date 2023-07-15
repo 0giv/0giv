@@ -22,6 +22,6 @@ An Anonymous Chatbox.
 <h3>Exploits</h3>
 
 <p>
-I planned I will do some exploit witdh 80%-90% fud.  
+I planned I will do some exploit with 80%-90% fud.  
 </p>
 
