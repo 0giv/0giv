@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0giv" alt="0giv" /></a> </p>
 
-- 🔭 I’m currently working on **CanSurvive**
+- 🔭 I’m currently a **Highschool Student**
 
 - 🌱 I’m currently learning **C++,Ethical Hacking**
 
