@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm 0giv</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0giv&label=Profile%20views&color=0e75b6&style=flat" alt="0giv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0giv&label=Profile%20views&color=0e75b6&style=flat" alt="0giv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0giv" alt="0giv" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0giv" alt="0giv" /></a> </p>
 
 - 🔭 I’m currently a **Highschool Student**
 
