@@ -12,7 +12,7 @@
 
 - 🌐 Personal Website : <a href="https://0giv.com.tr/"> **0giv.com.tr**</a>
 
-<h3 align="center">Contact with me: oguzhanbayarslan@gmail.com</h3>
+<h3 align="center">Contact with me on Discord: 0giv</h3>
 <p align="left">
 </p>
 
