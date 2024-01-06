@@ -10,7 +10,6 @@
 
 - 🤝 I’m looking for help with **Making Exploit**
 
-- 📫 How to reach me **oguzhanbayarslan@gmail.com**
 - 🌐 Personal Website : <a href="https://0giv.com.tr/"> **0giv.com.tr**</a>
 
 <h3 align="center">Contact with me: oguzhanbayarslan@gmail.com</h3>
