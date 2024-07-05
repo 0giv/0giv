@@ -4,11 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0giv" alt="0giv" /></a> </p>
 
-- 🔭 I’m currently a **Highschool Student**
-
 - 🌱 I’m currently learning **C++,Ethical Hacking**
-
-- 🤝 I’m looking for help with **Making Exploit**
 
 - 🌐 Personal Website : <a href="https://0giv.com.tr/"> **0giv.com.tr**</a>
 
